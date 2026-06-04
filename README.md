@@ -50,9 +50,4 @@ I am a Full-Stack Software Engineer and autonomous **"builder"** specializing in
 
 ---
 
-## 📊 Git Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscar2697&show_icons=true&theme=tokyonight&count_private=true" alt="Oscar's GitHub Stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar2697&layout=compact&theme=tokyonight" alt="Top Languages" height="160px" />
-</p>
