@@ -14,7 +14,7 @@ I am a Full-Stack Software Engineer and autonomous **"builder"** specializing in
 * **English-to-Spanish Neural Machine Translation via Multi-Head Attention Transformers**
   * *Abstract:* Practical design, implementation, and evaluation of a sequence-to-sequence Transformer architecture trained from scratch for English-to-Spanish translation tasks.
   * *Implementation & Training:* Built and trained entirely from scratch using PyTorch on Kaggle GPU environments. Evaluated via custom BLEU score validation metrics.
-  * <a href="https://doi.org/10.13140/RG.2.2.21011.23844"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white" alt="ResearchGate" /></a> <a href="https://github.com/tu-usuario/tu-repo/raw/main/paper.pdf"><img src="https://img.shields.io/badge/PDF-Download-red?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="PDF" /></a> <a href="https://github.com/tu-usuario/tu-repo"><img src="https://img.shields.io/badge/Code-Repository-blue?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
+  * <a href="https://doi.org/10.13140/RG.2.2.21011.23844"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white" alt="ResearchGate" /></a> <a href="https://github.com/oscar2697/transformer/blob/master/paper/A%20Hand-Rolled%20PyTorch%20Implementation%20of%20the%20Transformer.pdf"><img src="https://img.shields.io/badge/PDF-Download-red?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="PDF" /></a> <a href="https://github.com/oscar2697/transformer"><img src="https://img.shields.io/badge/Code-Repository-blue?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
 
 ---
 
